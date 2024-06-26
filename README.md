@@ -14,74 +14,78 @@
 
 
 [![vifernan's 42 stats](https://badge.mediaplus.ma/greenbinary/vifernan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-
 <table>
-    <tr> <!-- HEAD -->
+    <tr>
         <td>No.</td>
         <td>Name</td>
         <td>Result</td>
         <td>Date</td>
     </tr> 
-    <tr> <!-- LIFT -->
+    <tr>
         <td>00</td>
         <td><a href="https://github.com/vicfernan/libft">libft</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2148441" /></td>
+        <td>100</td>
         <td>May 2021</td>
     </tr>
-  <tr> <!-- netwhat -->
+  <tr>
         <td>01</td>
         <td>netwhat</td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/></td>
+        <td>100</td>
         <td>May 2021</td>
     </tr>
   <tr>
         <td>02</td>
         <td><a href="https://github.com/vicfernan/get_next_line">get_next_line</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221" /></td>
+        <td>120</td>
         <td>June 2021</td>
     </tr>
   <tr>
         <td>03</td>
         <td><a href="https://github.com/vicfernan/ft_printf">printf</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2170754"/></td>
+        <td>112</td>
         <td>August 2021</td>
     </tr>
   <tr>
         <td>04</td>
         <td><a href="https://github.com/vicfernan/Born2BeRoot">born2beroot</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2189210" /></td>
+        <td>100</td>
         <td>September 2021</td>
     </tr>
   <tr>
         <td>e2</td>
         <td><a href="https://github.com/vicfernan/exam02">exam02</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2360319" /></td>
+        <td>100</td>
         <td>September 2021</td>
     </tr>
    <tr>
         <td>05</td>
         <td><a href="https://github.com/vicfernan/FdF">FdF</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2328743" /></td>
+        <td>100</td>
         <td>October 2021</td>
     </tr>
    <tr>
         <td>06</td>
         <td><a href="https://github.com/vicfernan/push_swap">Push_swap</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2396827" /></td>
+        <td>87</td>
         <td>November 2021</td>
     </tr>
   <tr>
         <td>07</td>
         <td><a href="https://github.com/vicfernan/pipex">Pipex</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2368031" /></td>
+        <td>100</td>
         <td>January 2022</td>
     </tr>
     <tr>
         <td>e3</td>
         <td><a href="#">exam03</a></td>
-        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2501333" /></td>
+        <td>100</td>
         <td>June 2022</td>
+    </tr>
+    <tr>
+        <td>07</td>
+        <td><a href="https://github.com/vicfernan/minishell">minishell</a></td>
+        <td>100</td>
+        <td>March 2023</td>
     </tr>
 </table>
 
