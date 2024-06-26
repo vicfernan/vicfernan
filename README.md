@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/82234144/179207798-ca75122f-e5e9-4b75-9d62-2975a1ee446e.png" alt="42black" width="500px"/>
 
 
-<img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64" alt="vicfernan" />
+[![vifernan's 42 stats](https://badge.mediaplus.ma/greenbinary/vifernan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 <table>
