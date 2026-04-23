@@ -1,94 +1,73 @@
-<h1>Victor Fernandez Barrado - vicfernan 🤖 </h1>
+<h1 align="center">Victor Fernandez</h1>
 
-- Wake Tech Associate Engineer
-- Ex Software Developer at Telefonica Global Solutions
-- Ex 42Madrid Fundacion Telefonica
-- C programming
-- Linux / macOS
-- <a href="mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-">vifernan.b@gmail.com</a>
+<p align="center">
+  Computer Engineering
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vicfernan&show_icons=true&theme=radical" alt="vicfernan" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfernan&theme=radical" alt="vicfernan" />
-<hr class="dashed">
-<!--<h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</h1>-->
-<img src="https://user-images.githubusercontent.com/82234144/179207798-ca75122f-e5e9-4b75-9d62-2975a1ee446e.png" alt="42black" width="500px"/>
+<p align="center">
+  <a href="mailto:vifernan.b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/vicfernan">
+    <img src="https://img.shields.io/badge/GitHub-vicfernan-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
+---
 
-[![vifernan's 42 stats](https://badge.mediaplus.ma/greenbinary/vifernan?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-<table>
-    <tr>
-        <td>No.</td>
-        <td>Name</td>
-        <td>Result</td>
-        <td>Date</td>
-    </tr> 
-    <tr>
-        <td>00</td>
-        <td><a href="https://github.com/vicfernan/libft">libft</a></td>
-        <td>100</td>
-        <td>May 2021</td>
-    </tr>
+## About me
+
+- Computer Engineering
+- Former Software Developer at **Telefónica**
+- **42 Madrid** alumnus
+- Interested in **C, Linux, systems programming, and low-level development**
+
+---
+
+## Featured projects
+
+- [libft](https://github.com/vicfernan/libft)
+- [get_next_line](https://github.com/vicfernan/get_next_line)
+- [ft_printf](https://github.com/vicfernan/ft_printf)
+- [pipex](https://github.com/vicfernan/pipex)
+- [minishell](https://github.com/vicfernan/minishell)
+
+---
+
+## Tech
+
+<table align="center">
   <tr>
-        <td>01</td>
-        <td>netwhat</td>
-        <td>100</td>
-        <td>May 2021</td>
-    </tr>
-  <tr>
-        <td>02</td>
-        <td><a href="https://github.com/vicfernan/get_next_line">get_next_line</a></td>
-        <td>120</td>
-        <td>June 2021</td>
-    </tr>
-  <tr>
-        <td>03</td>
-        <td><a href="https://github.com/vicfernan/ft_printf">printf</a></td>
-        <td>112</td>
-        <td>August 2021</td>
-    </tr>
-  <tr>
-        <td>04</td>
-        <td><a href="https://github.com/vicfernan/Born2BeRoot">born2beroot</a></td>
-        <td>100</td>
-        <td>September 2021</td>
-    </tr>
-  <tr>
-        <td>e2</td>
-        <td><a href="https://github.com/vicfernan/exam02">exam02</a></td>
-        <td>100</td>
-        <td>September 2021</td>
-    </tr>
-   <tr>
-        <td>05</td>
-        <td><a href="https://github.com/vicfernan/FdF">FdF</a></td>
-        <td>100</td>
-        <td>October 2021</td>
-    </tr>
-   <tr>
-        <td>06</td>
-        <td><a href="https://github.com/vicfernan/push_swap">Push_swap</a></td>
-        <td>87</td>
-        <td>November 2021</td>
-    </tr>
-  <tr>
-        <td>07</td>
-        <td><a href="https://github.com/vicfernan/pipex">Pipex</a></td>
-        <td>100</td>
-        <td>January 2022</td>
-    </tr>
-    <tr>
-        <td>e3</td>
-        <td><a href="#">exam03</a></td>
-        <td>100</td>
-        <td>June 2022</td>
-    </tr>
-    <tr>
-        <td>07</td>
-        <td><a href="https://github.com/vicfernan/minishell">minishell</a></td>
-        <td>100</td>
-        <td>March 2023</td>
-    </tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" /><br>C</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" /><br>C++</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" /><br>Linux</td>
+    <td align="center"><img src="./assets/bash.png" alt="Bash" width="55" height="55" /><br>Bash</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" /><br>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" /><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" /><br>Java</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="55" height="55" /><br>GCP</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="55" height="55" /><br>Salesforce</td>
+  </tr>
 </table>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vicfernan&show_icons=true&theme=tokyonight" alt="Victor's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfernan&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+## 42
+
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/vifernan?1337Badge=off&UM6P=off" alt="42 stats" />
+  </a>
+</p>
