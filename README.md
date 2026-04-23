@@ -1,12 +1,13 @@
 <h1 align="center">Victor Fernandez</h1>
 
 <p align="center">
-  Computer Engineering
+  Computer Engineering | Software Developer<br>
+  Based in North Carolina
 </p>
 
 <p align="center">
-  <a href="mailto:vifernan.b@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/victor-fernandez-barrado/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vicfernan">
     <img src="https://img.shields.io/badge/GitHub-vicfernan-black?style=for-the-badge&logo=github" />
@@ -26,11 +27,11 @@
 
 ## Featured projects
 
-- [libft](https://github.com/vicfernan/libft)
-- [get_next_line](https://github.com/vicfernan/get_next_line)
-- [ft_printf](https://github.com/vicfernan/ft_printf)
-- [pipex](https://github.com/vicfernan/pipex)
-- [minishell](https://github.com/vicfernan/minishell)
+- [minishell](https://github.com/vicfernan/minishell) — Unix shell in C
+- [philosophers](https://github.com/vicfernan/philosophers) — concurrency and threads in C
+- [FdF](https://github.com/vicfernan/FdF) — 3D wireframe renderer
+- [pipex](https://github.com/vicfernan/pipex) — pipes and process management
+- [push_swap](https://github.com/vicfernan/push_swap) — sorting algorithm project
 
 ---
 
@@ -63,11 +64,3 @@
 </p>
 
 ---
-
-## 42
-
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/vifernan?1337Badge=off&UM6P=off" alt="42 stats" />
-  </a>
-</p>
