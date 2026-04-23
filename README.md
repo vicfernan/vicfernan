@@ -41,7 +41,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" /><br>C</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" /><br>C++</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" /><br>Linux</td>
-    <td align="center"><img src="./assets/bash.png" alt="Bash" width="55" height="55" /><br>Bash</td>
+    <td align="center"><img src="./assets/icons/bash.png" alt="Bash" width="55" height="55" /><br>Bash</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" /><br>Git</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" /><br>JavaScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" /><br>Java</td>
