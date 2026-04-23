@@ -1,7 +1,8 @@
 <h1>Victor Fernandez Barrado - vicfernan 🤖 </h1>
 
-- Salesforce Developer at Telefonica Global Solutions
-- 42Madrid Fundacion Telefonica
+- Wake Tech Associate Engineer
+- Ex Software Developer at Telefonica Global Solutions
+- Ex 42Madrid Fundacion Telefonica
 - C programming
 - Linux / macOS
 - <a href="mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-">vifernan.b@gmail.com</a>
